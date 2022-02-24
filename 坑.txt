@@ -1,0 +1,4 @@
+
+1. 需要安裝 CMake
+2. 不能安裝 opencv-python 要安裝 opencv-contrib-python
+3. dlib一定要安裝 19.8.1  (pip install dlib==19.8.1)
